@@ -1,0 +1,17 @@
+name: Request Workflow
+description: Request a Workflow to be tweaked and included
+body:
+  - type: input
+    attributes:
+      label: Workflow name
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Workflow page
+      description: A link to an Alfred Forum thread is preferred
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Extra details
