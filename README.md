@@ -12,4 +12,5 @@ All Workflows retain their original license.
 
 ## Workflows
 
+* Percent Change: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Percent%20Change.alfredworkflow) | [original](https://www.alfredforum.com/topic/4731-percent-change/)
 * Power Thesaurus: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Power%20Thesaurus.alfredworkflow) | [original](https://www.alfredforum.com/topic/10576-power-thesaurus-search/)
