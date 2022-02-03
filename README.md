@@ -13,5 +13,6 @@ All Workflows retain their original license.
 ## Workflows
 
 * Case Converter 2: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Case%20Converter%202.alfredworkflow) | [original](https://www.alfredforum.com/topic/2180-case-converter-including-title-case/)
+* ESV Online Bible: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/ESV%20Online%20Bible.alfredworkflow) | [original](https://www.alfredforum.com/topic/9663-esv-online-bible/)
 * Percent Change: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Percent%20Change.alfredworkflow) | [original](https://www.alfredforum.com/topic/4731-percent-change/)
 * Power Thesaurus: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Power%20Thesaurus.alfredworkflow) | [original](https://www.alfredforum.com/topic/10576-power-thesaurus-search/)
