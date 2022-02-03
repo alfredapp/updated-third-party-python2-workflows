@@ -11,3 +11,5 @@ Before installing any of these, you **must** install Python 2 to a location reco
 All Workflows retain their original license.
 
 ## Workflows
+
+* Power Thesaurus: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Power%20Thesaurus.alfredworkflow) | [original](https://www.alfredforum.com/topic/10576-power-thesaurus-search/)
