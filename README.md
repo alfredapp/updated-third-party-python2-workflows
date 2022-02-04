@@ -16,3 +16,4 @@ All Workflows retain their original license.
 * ESV Online Bible: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/ESV%20Online%20Bible.alfredworkflow) | [original](https://www.alfredforum.com/topic/9663-esv-online-bible/)
 * Percent Change: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Percent%20Change.alfredworkflow) | [original](https://www.alfredforum.com/topic/4731-percent-change/)
 * Power Thesaurus: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Power%20Thesaurus.alfredworkflow) | [original](https://www.alfredforum.com/topic/10576-power-thesaurus-search/)
+* Word Search: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Word%20Search.alfredworkflow) | [original](https://www.alfredforum.com/topic/11074-word-search-a-workflow-to-make-you-a-better-writer/)
