@@ -13,6 +13,7 @@ All Workflows retain their original license.
 ## Workflows
 
 * Case Converter 2: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Case%20Converter%202.alfredworkflow) | [original](https://www.alfredforum.com/topic/2180-case-converter-including-title-case/)
+* Convert: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Convert.alfredworkflow) | [original](https://www.alfredforum.com/topic/3980-offline-unit-conversion-workflow/)
 * Default Folder X: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Default%20Folder%20X.alfredworkflow) | [original](https://www.alfredforum.com/topic/8695-default-folder-x/)
 * ESV Online Bible: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/ESV%20Online%20Bible.alfredworkflow) | [original](https://www.alfredforum.com/topic/9663-esv-online-bible/)
 * Google Authenticator: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Google%20Authenticator.alfredworkflow) | [original](https://www.alfredforum.com/topic/4062-gauth-google-authenticator-time-based-two-factor-authentication/)
