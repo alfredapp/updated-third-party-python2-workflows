@@ -12,6 +12,7 @@ All Workflows retain their original license.
 
 ## Workflows
 
+* AppScripts: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/AppScripts.alfredworkflow) | [original](https://www.alfredforum.com/topic/4218-appscripts-—-list-search-and-run-applescripts-for-the-active-application/)
 * Case Converter 2: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Case%20Converter%202.alfredworkflow) | [original](https://www.alfredforum.com/topic/2180-case-converter-including-title-case/)
 * Confluence Quick Search: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Confluence%20Quick%20Search.alfredworkflow) | [original](https://www.alfredforum.com/topic/10234-atlassian-confluence-quick-search/)
 * Convert: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Convert.alfredworkflow) | [original](https://www.alfredforum.com/topic/3980-offline-unit-conversion-workflow/)
