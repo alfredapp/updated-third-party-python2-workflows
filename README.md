@@ -22,6 +22,7 @@ All Workflows retain their original license.
 * Default Folder X: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Default%20Folder%20X.alfredworkflow) | [original](https://www.alfredforum.com/topic/8695-default-folder-x/)
 * Dict.cc: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Dict.cc.alfredworkflow) | [original](https://github.com/dennis-tra/alfred-dict.cc-workflow)
 * ESV Online Bible: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/ESV%20Online%20Bible.alfredworkflow) | [original](https://www.alfredforum.com/topic/9663-esv-online-bible/)
+* Ekşi Sözlük: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Eks%CC%A7i%20So%CC%88zlu%CC%88k.alfredworkflow) | [original](https://github.com/ttuygun/alfred-eksi-sozluk-workflow)
 * Fakeum: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Fakeum.alfredworkflow) | [original](https://www.alfredforum.com/topic/5319-fakeum-—-generate-fake-test-datasets-in-alfred/)
 * Favorites: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Favorites.alfredworkflow) | [original](http://www.packal.org/workflow/favorites)
 * Git Repos: [download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Git%20Repos.alfredworkflow) | [original](https://www.alfredforum.com/topic/4588-find-filter-open-git-repositories/)
