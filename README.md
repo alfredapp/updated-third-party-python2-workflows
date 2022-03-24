@@ -13,7 +13,7 @@ All Workflows retain their original license.
 ### Workflows
 
 <!-- BEGIN WORKFLOWS TABLE -->
-| Name | Updated Workflow | Original |
+| Name | Updated Version | Original |
 | --- | :---: | :---: |
 | AppScripts | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/AppScripts.alfredworkflow) | [View](https://www.alfredforum.com/topic/4218-appscripts-—-list-search-and-run-applescripts-for-the-active-application/) |
 | Bear | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Bear.alfredworkflow) | [View](https://www.alfredforum.com/topic/10403-bear-workflow-search-and-create-notes/) |
@@ -46,6 +46,7 @@ All Workflows retain their original license.
 | Reddit | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Reddit.alfredworkflow) | [View](https://www.alfredforum.com/topic/5317-browse-reddit/) |
 | Salesforce | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Salesforce.alfredworkflow) | [View](https://www.alfredforum.com/topic/10892-search-in-salesforce-alfred-3-worklfow/) |
 | Search OmniFocus | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Search%20OmniFocus.alfredworkflow) | [View](https://www.alfredforum.com/topic/5934-search-omnifocus-free-text-search-your-omnifocus-data/) |
+| Shell Variables | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Shell%20Variables.alfredworkflow) | [View](https://github.com/hug33k/Alfred-ShellVariables) |
 | Smart Folders | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Smart%20Folders.alfredworkflow) | [View](https://www.alfredforum.com/topic/3385-smartfolders-browse-and-search-the-contents-of-your-saved-searches/) |
 | SpeedTest | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/SpeedTest.alfredworkflow) | [View](http://www.packal.org/workflow/speedtest-0) |
 | StackExchange Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/StackExchange%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/5318-search-stackoverflow/) |
@@ -56,3 +57,4 @@ All Workflows retain their original license.
 | Word Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Word%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/11074-word-search-a-workflow-to-make-you-a-better-writer/) |
 | ZotHero | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/ZotHero.alfredworkflow) | [View](https://www.alfredforum.com/topic/11658-zothero-—-generate-zotero-citations-in-alfred/) |
 <!-- END WORKFLOWS TABLE -->
+
