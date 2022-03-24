@@ -57,6 +57,6 @@ All Workflows retain their original license.
 | ZotHero[^2] | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/ZotHero.alfredworkflow) | [View](https://www.alfredforum.com/topic/11658-zothero-—-generate-zotero-citations-in-alfred/) | |
 <!-- END WORKFLOWS TABLE -->
 
-[^1]: Alternatives don’t depend on Python 2 but may have a different set of features. The ones marked `Python 3 fork` are directly based on the original.
+[^1]: Alternatives don’t depend on Python 2 but may have a different set of features. The ones marked `Python 3 fork` are directly based on the original. [Use the template](https://github.com/alfredapp/updated-third-party-python2-workflows/issues/new?template=suggest_alternative.yml) to suggest an alternative.
 
 [^2]: This Workflow depends on the Objective-C bridge for some of its functionality. Install it with `"${HOME}/.pyenv/versions/2.7.18/bin/python2.7" -m pip install PyObjC`. It may fail to build on Apple Silicon.
