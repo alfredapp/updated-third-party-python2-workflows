@@ -20,6 +20,7 @@ All Workflows retain their original license.
 | Browser Choice | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Browser%20Choice.alfredworkflow) | [View](https://www.alfredforum.com/topic/11787-any-way-to-open-a-url-with-a-particular-browser/) | |
 | Calibre Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Calibre%20Search.alfredworkflow) | [View](https://github.com/mpco/AlfredWorkflow-Calibre-Search) | |
 | Case Converter 2 | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Case%20Converter%202.alfredworkflow) | [View](https://www.alfredforum.com/topic/2180-case-converter-including-title-case/) | [Code Case](https://github.com/giovannicoppola/alfred-codeCase) 𐄁 [Change Case](https://github.com/gillibrand/alfred-change-case) |
+| Cheat | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Cheat.alfredworkflow) | [View](https://www.alfredforum.com/topic/13206-alfred-cheat-manage-your-own-cheat-sheets) | |
 | CnyTransform | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/CnyTransform.alfredworkflow) | [View](https://github.com/TerryX-Lee/AlfredWorkflow_CnyTransform) | |
 | Confluence Quick Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Confluence%20Quick%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/10234-atlassian-confluence-quick-search/) | |
 | Convert | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Convert.alfredworkflow) | [View](https://www.alfredforum.com/topic/3980-offline-unit-conversion-workflow/) | [Calculate Anything](https://www.alfredforum.com/topic/13974-calculate-anything/) |
@@ -59,4 +60,5 @@ All Workflows retain their original license.
 [^1]: Alternatives don’t depend on Python 2 but may have a different set of features. [Use the template](https://github.com/alfredapp/updated-third-party-python2-workflows/issues/new?template=suggest_alternative.yml) to suggest an alternative.
 
 [^2]: This Workflow depends on the Objective-C bridge for some of its functionality. Install it with `"${HOME}/.pyenv/versions/2.7.18/bin/python2.7" -m pip install PyObjC`. It may fail to build on Apple Silicon.
+
 
