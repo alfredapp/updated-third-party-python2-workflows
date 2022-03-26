@@ -49,6 +49,7 @@ All Workflows retain their original license.
 | Smart Folders | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Smart%20Folders.alfredworkflow) | [View](https://www.alfredforum.com/topic/3385-smartfolders-browse-and-search-the-contents-of-your-saved-searches/) | |
 | SpeedTest | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/SpeedTest.alfredworkflow) | [View](http://www.packal.org/workflow/speedtest-0) | |
 | StackExchange Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/StackExchange%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/5318-search-stackoverflow/) | |
+| TeXdoc | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/TeXdoc.alfredworkflow) | [View](https://www.alfredforum.com/topic/8705-texdoc-workflow/) | |
 | The Archive[^2] | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/The%20Archive.alfredworkflow) | [View](https://www.alfredforum.com/topic/15090-alfred-workflow-for-the-archive/) | |
 | VPN Manager | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/VPN%20Manager.alfredworkflow) | [View](https://www.alfredforum.com/topic/7333-vpn-connection-manager/) | |
 | Video Conferences | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Video%20Conferences.alfredworkflow) | [View](https://www.deanishe.net/post/2020/05/workflow-video-conferences/) | |
@@ -59,5 +60,6 @@ All Workflows retain their original license.
 [^1]: Alternatives don’t depend on Python 2 but may have a different set of features. [Use the template](https://github.com/alfredapp/updated-third-party-python2-workflows/issues/new?template=suggest_alternative.yml) to suggest an alternative.
 
 [^2]: This Workflow depends on the Objective-C bridge for some of its functionality. Install it with `"${HOME}/.pyenv/versions/2.7.18/bin/python2.7" -m pip install PyObjC`. It may fail to build on Apple Silicon.
+
 
 
