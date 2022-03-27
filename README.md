@@ -40,6 +40,7 @@ All Workflows retain their original license.
 | Network Location | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Network%20Location.alfredworkflow) | [View](https://www.alfredforum.com/topic/4533-list-filter-and-activate-network-locations-from-within-alfred/) | |
 | Outlook Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Outlook%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/11320-workflow-for-outlook-v16-search/) | |
 | Password Generator[^2] | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Password%20Generator.alfredworkflow) | [View](https://www.alfredforum.com/topic/6653-secure-password-generator/) | [StrongPassword](https://www.alfredforum.com/topic/1233-strongpassword) |
+| Paste N Clipboards | Not needed[^3] | [View](https://www.packal.org/workflow/paste-n-clipboards) | [SequentialPaste](https://www.alfredforum.com/topic/14534-sequentialpaste-—-paste-previous-clipboard-entries-in-order/) |
 | Percent Change | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Percent%20Change.alfredworkflow) | [View](https://www.alfredforum.com/topic/4731-percent-change/) | |
 | Philips Hue Controller | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Philips%20Hue%20Controller.alfredworkflow) | [View](https://www.alfredforum.com/topic/2723-philips-hue-controller-workflow/) | |
 | Pocket for Alfred | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Pocket%20for%20Alfred.alfredworkflow) | [View](https://www.alfredforum.com/topic/4127-pocket-for-alfred/) | |
@@ -52,6 +53,7 @@ All Workflows retain their original license.
 | SpeedTest | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/SpeedTest.alfredworkflow) | [View](http://www.packal.org/workflow/speedtest-0) | |
 | StackExchange Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/StackExchange%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/5318-search-stackoverflow/) | |
 | TeXdoc | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/TeXdoc.alfredworkflow) | [View](https://www.alfredforum.com/topic/8705-texdoc-workflow/) | |
+| Unicode Symbols Search | Not needed[^3] | [View](https://www.alfredforum.com/topic/1404-find-and-paste-unicode-symbols-arrow-triangles-greek-and-more/) | [Unicode](https://github.com/deanishe/alfred-unicode) |
 | VPN Manager | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/VPN%20Manager.alfredworkflow) | [View](https://www.alfredforum.com/topic/7333-vpn-connection-manager/) | |
 | Video Conferences | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Video%20Conferences.alfredworkflow) | [View](https://www.deanishe.net/post/2020/05/workflow-video-conferences/) | |
 | Word Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Word%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/11074-word-search-a-workflow-to-make-you-a-better-writer/) | [SynAnt](https://www.alfredforum.com/topic/3954-synant) |
@@ -62,7 +64,4 @@ All Workflows retain their original license.
 
 [^2]: This Workflow depends on the Objective-C bridge for some of its functionality. Install it with `"${HOME}/.pyenv/versions/2.7.18/bin/python2.7" -m pip install PyObjC`. It may fail to build on Apple Silicon.
 
-
-
-
-
+[^3]: Despite having been requested, this Workflow doesn’t need modifications to work. Following the [instructions to reinstall Python 2](https://www.alfredapp.com/help/kb/python-2-monterey/) is enough.
