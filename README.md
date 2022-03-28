@@ -50,6 +50,7 @@ All Workflows retain their original license.
 | Search Apple Music | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Search%20Apple%20Music.alfredworkflow) | [View](https://www.gingerbeardman.com/alfred/) | |
 | Search OmniFocus | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Search%20OmniFocus.alfredworkflow) | [View](https://www.alfredforum.com/topic/5934-search-omnifocus-free-text-search-your-omnifocus-data/) | |
 | Shell Variables | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Shell%20Variables.alfredworkflow) | [View](https://github.com/hug33k/Alfred-ShellVariables) | |
+| Skimmer | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Skimmer.alfredworkflow) | [View](https://www.alfredforum.com/topic/4052-skimmer-pdf-actions-for-skim/) | |
 | Smart Folders | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Smart%20Folders.alfredworkflow) | [View](https://www.alfredforum.com/topic/3385-smartfolders-browse-and-search-the-contents-of-your-saved-searches/) | |
 | SpeedTest | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/SpeedTest.alfredworkflow) | [View](http://www.packal.org/workflow/speedtest-0) | |
 | StackExchange Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/StackExchange%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/5318-search-stackoverflow/) | |
@@ -66,4 +67,5 @@ All Workflows retain their original license.
 [^2]: This Workflow depends on the Objective-C bridge for some of its functionality. Install it with `"${HOME}/.pyenv/versions/2.7.18/bin/python2.7" -m pip install PyObjC`. It may fail to build on Apple Silicon.
 
 [^3]: Despite having been requested, this Workflow doesn’t need modifications to work. Following the [instructions to reinstall Python 2](https://www.alfredapp.com/help/kb/python-2-monterey/) is enough.
+
 
