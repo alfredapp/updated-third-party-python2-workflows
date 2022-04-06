@@ -72,6 +72,7 @@ Workflows which used to be on the table above but have since been updated by the
 | --- | :---: |
 | Case Converter| [View](https://www.alfredforum.com/topic/2180-case-converter-including-title-case/) |
 | Change Case | [View](https://github.com/gillibrand/alfred-change-case) |
+| Emoji Taco | [View](http://github.com/jeeftor/EmojiTaco) |
 | Movie and TV Show Search | [View](https://www.alfredforum.com/topic/5355-movie-and-tv-show-search/) |
 | Session | [View](https://www.alfredforum.com/topic/17627-session-workflow/) |
 | Tailwind CSS Docs | [View](https://github.com/techouse/alfred-tailwindcss-docs) |
