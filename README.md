@@ -17,6 +17,7 @@ All Workflows retain their original license.
 | --- | :---: | :---: | --- |
 | AppScripts | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/AppScripts.alfredworkflow) | [View](https://www.alfredforum.com/topic/4218-appscripts-—-list-search-and-run-applescripts-for-the-active-application/) | |
 | Bear | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Bear.alfredworkflow) | [View](https://www.alfredforum.com/topic/10403-bear-workflow-search-and-create-notes/) | |
+| Bluetooth Controller | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Bluetooth%20Controller.alfredworkflow) | [View](https://www.alfredforum.com/topic/14589-bluetooth-controller/) | |
 | Browser Choice | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Browser%20Choice.alfredworkflow) | [View](https://www.alfredforum.com/topic/11787-any-way-to-open-a-url-with-a-particular-browser/) | |
 | Calibre Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Calibre%20Search.alfredworkflow) | [View](https://github.com/mpco/AlfredWorkflow-Calibre-Search) | |
 | Cheat | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Cheat.alfredworkflow) | [View](https://www.alfredforum.com/topic/13206-alfred-cheat-manage-your-own-cheat-sheets) | |
@@ -81,5 +82,6 @@ Workflows which used to be on the table above but have since been updated by the
 [^2]: This Workflow depends on the Objective-C bridge for some of its functionality. Install it with `"${HOME}/.pyenv/versions/2.7.18/bin/python2.7" -m pip install PyObjC`. It may fail to build on Apple Silicon.
 
 [^3]: Despite having been requested, this Workflow doesn’t need modifications to work. Following the [instructions to reinstall Python 2](https://www.alfredapp.com/help/kb/python-2-monterey/) is enough.
+
 
 
