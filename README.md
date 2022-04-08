@@ -37,6 +37,7 @@ All Workflows retain their original license.
 | Google Authenticator | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Google%20Authenticator.alfredworkflow) | [View](https://www.alfredforum.com/topic/4062-gauth-google-authenticator-time-based-two-factor-authentication/) | [Google Authenticator](https://github.com/tbrek/alfred-workflow-gauth/) |
 | Homebrew and Cask | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Homebrew%20and%20Cask.alfredworkflow) | [View](https://www.alfredforum.com/topic/4270-homebrew-and-cask-for-alfred/) | |
 | I Sheet You Not | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/I%20Sheet%20You%20Not.alfredworkflow) | [View](https://www.alfredforum.com/topic/9469-i-sheet-you-not-plug-excel-into-alfred/) | |
+| Jira Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Jira%20Search.alfredworkflow) | [View](https://www.packal.org/workflow/jira-search) | |
 | Microsoft ToDo | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Microsoft%20ToDo.alfredworkflow) | [View](https://www.alfredforum.com/topic/14864-microsoft-todo-wunderlist-replacement-workflow/) | |
 | Network Location | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Network%20Location.alfredworkflow) | [View](https://www.alfredforum.com/topic/4533-list-filter-and-activate-network-locations-from-within-alfred/) | |
 | OneNote Navigator | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/OneNote%20Navigator.alfredworkflow) | [View](https://github.com/kevin-funderburg/alfred-microsoft-onenote-navigator) | |
@@ -83,6 +84,7 @@ Workflows which used to be on the table above but have since been updated by the
 [^2]: This Workflow depends on the Objective-C bridge for some of its functionality. Install it with `"${HOME}/.pyenv/versions/2.7.18/bin/python2.7" -m pip install PyObjC`. It may fail to build on Apple Silicon.
 
 [^3]: Despite having been requested, this Workflow doesn’t need modifications to work. Following the [instructions to reinstall Python 2](https://www.alfredapp.com/help/kb/python-2-monterey/) is enough.
+
 
 
 
