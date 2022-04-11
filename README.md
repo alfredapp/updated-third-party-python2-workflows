@@ -72,6 +72,7 @@ Workflows which used to be on the table above but have since been updated by the
 
 | Name | Web Page |
 | --- | :---: |
+| Calendar | [View](https://github.com/cleobis/alfred-cal) |
 | Case Converter| [View](https://www.alfredforum.com/topic/2180-case-converter-including-title-case/) |
 | Change Case | [View](https://github.com/gillibrand/alfred-change-case) |
 | Emoji Taco | [View](http://github.com/jeeftor/EmojiTaco) |
