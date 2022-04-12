@@ -34,7 +34,6 @@ All Workflows retain their original license.
 | Favorites | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Favorites.alfredworkflow) | [View](http://www.packal.org/workflow/favorites) | |
 | File Renamer | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/File%20Renamer.alfredworkflow) | [View](https://github.com/realliyifei/alfred-file-renamer) | |
 | Git Repos | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Git%20Repos.alfredworkflow) | [View](https://www.alfredforum.com/topic/4588-find-filter-open-git-repositories/) | |
-| Google Authenticator | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Google%20Authenticator.alfredworkflow) | [View](https://www.alfredforum.com/topic/4062-gauth-google-authenticator-time-based-two-factor-authentication/) | [Google Authenticator](https://github.com/tbrek/alfred-workflow-gauth/) |
 | Homebrew and Cask | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Homebrew%20and%20Cask.alfredworkflow) | [View](https://www.alfredforum.com/topic/4270-homebrew-and-cask-for-alfred/) | |
 | I Sheet You Not | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/I%20Sheet%20You%20Not.alfredworkflow) | [View](https://www.alfredforum.com/topic/9469-i-sheet-you-not-plug-excel-into-alfred/) | |
 | Jira Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Jira%20Search.alfredworkflow) | [View](https://www.packal.org/workflow/jira-search) | [Jira](https://github.com/mjhuber/alfred-jira) 𐄁 [Jira Server Utilities](https://github.com/scarstens/alfred-workflow-jira-search-utilities) 𐄁 [Jira Search](https://github.com/titouanmathis/alfred-jira-search) |
@@ -76,6 +75,7 @@ Workflows which used to be on the table above but have since been updated by the
 | Case Converter| [View](https://www.alfredforum.com/topic/2180-case-converter-including-title-case/) |
 | Change Case | [View](https://github.com/gillibrand/alfred-change-case) |
 | Emoji Taco | [View](http://github.com/jeeftor/EmojiTaco) |
+| Google Authenticator | [View](https://github.com/moul/alfred-workflow-gauth/tree/develop) |
 | Movie and TV Show Search | [View](https://www.alfredforum.com/topic/5355-movie-and-tv-show-search/) |
 | Session | [View](https://www.alfredforum.com/topic/17627-session-workflow/) |
 | Tailwind CSS Docs | [View](https://github.com/techouse/alfred-tailwindcss-docs) |
