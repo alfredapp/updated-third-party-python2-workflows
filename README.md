@@ -13,9 +13,9 @@ All Workflows retain their original license.
 ### Workflows
 
 <!-- BEGIN WORKFLOWS TABLE -->
-| Name | Updated Version | Original | Alternatives[^1] |
-| --- | :---: | :---: | --- |
-| AppScripts | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/AppScripts.alfredworkflow) | [View](https://www.alfredforum.com/topic/4218-appscripts-—-list-search-and-run-applescripts-for-the-active-application/) | |
+  | Name | Updated Version | Original | Alternatives[^1] |
+  | --- | :---: | :---: | --- |
+  | AppScripts | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/AppScripts.alfredworkflow) | [View](https://www.alfredforum.com/topic/4218-appscripts-—-list-search-and-run-applescripts-for-the-active-application/) | |
 | Bear | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Bear.alfredworkflow) | [View](https://www.alfredforum.com/topic/10403-bear-workflow-search-and-create-notes/) | |
 | Bluetooth Controller | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Bluetooth%20Controller.alfredworkflow) | [View](https://www.alfredforum.com/topic/14589-bluetooth-controller/) | [DenteAzul](https://www.alfredforum.com/topic/10075-denteazul-—-toggle-bluetooth-and-paired-device-connectivity/) |
 | Browser Choice | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Browser%20Choice.alfredworkflow) | [View](https://www.alfredforum.com/topic/11787-any-way-to-open-a-url-with-a-particular-browser/) | |
@@ -51,6 +51,7 @@ All Workflows retain their original license.
 | Safari History | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Safari%20History.alfredworkflow) | [View](https://github.com/tupton/alfred-safari-history) | |
 | Salesforce | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Salesforce.alfredworkflow) | [View](https://www.alfredforum.com/topic/10892-search-in-salesforce-alfred-3-worklfow/) | |
 | Search OmniFocus | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Search%20OmniFocus.alfredworkflow) | [View](https://www.alfredforum.com/topic/5934-search-omnifocus-free-text-search-your-omnifocus-data/) | |
+| Seq-utilities | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Seq-utilities.alfredworkflow) | [View](https://github.com/danielecook/seq-utilities-alfred) | |
 | Shell Variables | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Shell%20Variables.alfredworkflow) | [View](https://github.com/hug33k/Alfred-ShellVariables) | |
 | Skimmer | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Skimmer.alfredworkflow) | [View](https://www.alfredforum.com/topic/4052-skimmer-pdf-actions-for-skim/) | [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) |
 | Smart Folders | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Smart%20Folders.alfredworkflow) | [View](https://www.alfredforum.com/topic/3385-smartfolders-browse-and-search-the-contents-of-your-saved-searches/) | |
@@ -63,7 +64,7 @@ All Workflows retain their original license.
 | Video Conferences | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Video%20Conferences.alfredworkflow) | [View](https://www.deanishe.net/post/2020/05/workflow-video-conferences/) | |
 | Word Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Word%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/11074-word-search-a-workflow-to-make-you-a-better-writer/) | [Power Thesaurus](https://github.com/giovannicoppola/alfred-powerthesaurus) 𐄁 [SynAnt](https://www.alfredforum.com/topic/3954-synant) |
 | ZotHero[^2] | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/ZotHero.alfredworkflow) | [View](https://www.alfredforum.com/topic/11658-zothero-—-generate-zotero-citations-in-alfred/) | |
-<!-- END WORKFLOWS TABLE -->
+  <!-- END WORKFLOWS TABLE -->
 
 ### Officially updated
 
