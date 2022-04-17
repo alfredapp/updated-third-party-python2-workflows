@@ -53,7 +53,7 @@ All Workflows retain their original license.
 | Search OmniFocus | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Search%20OmniFocus.alfredworkflow) | [View](https://www.alfredforum.com/topic/5934-search-omnifocus-free-text-search-your-omnifocus-data/) | |
 | Seq-utilities | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Seq-utilities.alfredworkflow) | [View](https://github.com/danielecook/seq-utilities-alfred) | |
 | Shell Variables | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Shell%20Variables.alfredworkflow) | [View](https://github.com/hug33k/Alfred-ShellVariables) | |
-| Skimmer | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Skimmer.alfredworkflow) | [View](https://www.alfredforum.com/topic/4052-skimmer-pdf-actions-for-skim/) | [PDF Tools](https://github.com/xilopaint/alfred-pdf-tools) |
+| Skimmer | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Skimmer.alfredworkflow) | [View](https://www.alfredforum.com/topic/4052-skimmer-pdf-actions-for-skim/) | [PDF Tools](https://www.alfredforum.com/topic/9276-alfred-pdf-tools-–-optimize-encrypt-and-manipulate-pdf-files/) |
 | Smart Folders | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Smart%20Folders.alfredworkflow) | [View](https://www.alfredforum.com/topic/3385-smartfolders-browse-and-search-the-contents-of-your-saved-searches/) | |
 | SpeedTest | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/SpeedTest.alfredworkflow) | [View](http://www.packal.org/workflow/speedtest-0) | |
 | StackExchange Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/StackExchange%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/5318-search-stackoverflow/) | |
@@ -78,6 +78,7 @@ Workflows which used to be on the table above but have since been updated by the
 | Emoji Taco | [View](http://github.com/jeeftor/EmojiTaco) |
 | Google Authenticator | [View](https://github.com/moul/alfred-workflow-gauth/tree/develop) |
 | Movie and TV Show Search | [View](https://www.alfredforum.com/topic/5355-movie-and-tv-show-search/) |
+| PDF Tools | [View](https://www.alfredforum.com/topic/9276-alfred-pdf-tools-–-optimize-encrypt-and-manipulate-pdf-files/)
 | Session | [View](https://www.alfredforum.com/topic/17627-session-workflow/) |
 | Tailwind CSS Docs | [View](https://github.com/techouse/alfred-tailwindcss-docs) |
 | The Archive | [View](https://www.alfredforum.com/topic/15090-alfred-workflow-for-the-archive/) |
