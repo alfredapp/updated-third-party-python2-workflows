@@ -15,7 +15,9 @@ All Workflows retain their original license.
 <!-- BEGIN WORKFLOWS TABLE -->
   | Name | Updated Version | Original | Alternatives[^1] |
   | --- | :---: | :---: | --- |
+    
   | AppScripts | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/AppScripts.alfredworkflow) | [View](https://www.alfredforum.com/topic/4218-appscripts-—-list-search-and-run-applescripts-for-the-active-application/) | |
+| Alfred Books | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Alfred%20Books.alfredworkflow) | [View](https://www.alfredforum.com/topic/13147-alfred-books-use-alfred-as-an-interface-to-access-apples-books-application/) | |
 | Bear | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Bear.alfredworkflow) | [View](https://www.alfredforum.com/topic/10403-bear-workflow-search-and-create-notes/) | |
 | Bluetooth Controller | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Bluetooth%20Controller.alfredworkflow) | [View](https://www.alfredforum.com/topic/14589-bluetooth-controller/) | [DenteAzul](https://www.alfredforum.com/topic/10075-denteazul-—-toggle-bluetooth-and-paired-device-connectivity/) |
 | Browser Choice | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Browser%20Choice.alfredworkflow) | [View](https://www.alfredforum.com/topic/11787-any-way-to-open-a-url-with-a-particular-browser/) | |
