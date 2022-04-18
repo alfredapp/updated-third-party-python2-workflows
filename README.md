@@ -51,7 +51,6 @@ All Workflows retain their original license.
 | Reddit | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Reddit.alfredworkflow) | [View](https://www.alfredforum.com/topic/5317-browse-reddit/) | |
 | Safari History | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Safari%20History.alfredworkflow) | [View](https://github.com/tupton/alfred-safari-history) | |
 | Salesforce | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Salesforce.alfredworkflow) | [View](https://www.alfredforum.com/topic/10892-search-in-salesforce-alfred-3-worklfow/) | |
-| Search OmniFocus | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Search%20OmniFocus.alfredworkflow) | [View](https://www.alfredforum.com/topic/5934-search-omnifocus-free-text-search-your-omnifocus-data/) | |
 | Seq-utilities | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Seq-utilities.alfredworkflow) | [View](https://github.com/danielecook/seq-utilities-alfred) | |
 | Shell Variables | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Shell%20Variables.alfredworkflow) | [View](https://github.com/hug33k/Alfred-ShellVariables) | |
 | Skimmer | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Skimmer.alfredworkflow) | [View](https://www.alfredforum.com/topic/4052-skimmer-pdf-actions-for-skim/) | [PDF Tools](https://www.alfredforum.com/topic/9276-alfred-pdf-tools-–-optimize-encrypt-and-manipulate-pdf-files/) |
@@ -79,7 +78,8 @@ Workflows which used to be on the table above but have since been updated by the
 | Emoji Taco | [View](http://github.com/jeeftor/EmojiTaco) |
 | Google Authenticator | [View](https://github.com/moul/alfred-workflow-gauth/tree/develop) |
 | Movie and TV Show Search | [View](https://www.alfredforum.com/topic/5355-movie-and-tv-show-search/) |
-| PDF Tools | [View](https://www.alfredforum.com/topic/9276-alfred-pdf-tools-–-optimize-encrypt-and-manipulate-pdf-files/)
+| PDF Tools | [View](https://www.alfredforum.com/topic/9276-alfred-pdf-tools-–-optimize-encrypt-and-manipulate-pdf-files/) |
+| Search OmniFocus | [View](https://github.com/rhydlewis/alfred-search-omnifocus) |
 | Session | [View](https://www.alfredforum.com/topic/17627-session-workflow/) |
 | Tailwind CSS Docs | [View](https://github.com/techouse/alfred-tailwindcss-docs) |
 | The Archive | [View](https://www.alfredforum.com/topic/15090-alfred-workflow-for-the-archive/) |
