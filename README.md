@@ -54,6 +54,7 @@ All Workflows retain their original license.
 | Seq-utilities | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Seq-utilities.alfredworkflow) | [View](https://github.com/danielecook/seq-utilities-alfred) | |
 | Shell Variables | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Shell%20Variables.alfredworkflow) | [View](https://github.com/hug33k/Alfred-ShellVariables) | |
 | Skimmer | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Skimmer.alfredworkflow) | [View](https://www.alfredforum.com/topic/4052-skimmer-pdf-actions-for-skim/) | [PDF Tools](https://www.alfredforum.com/topic/9276-alfred-pdf-tools-–-optimize-encrypt-and-manipulate-pdf-files/) |
+| SmartThings | Not needed[^3] | [View](https://github.com/mattnichols/SmartThings-Alfred) | |
 | Smart Folders | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Smart%20Folders.alfredworkflow) | [View](https://www.alfredforum.com/topic/3385-smartfolders-browse-and-search-the-contents-of-your-saved-searches/) | |
 | SpeedTest | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/SpeedTest.alfredworkflow) | [View](http://www.packal.org/workflow/speedtest-0) | [Network Quality](https://www.alfredforum.com/topic/18257-network-quality-—-test-your-internet-connection/) |
 | StackExchange Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/StackExchange%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/5318-search-stackoverflow/) | |
@@ -64,7 +65,7 @@ All Workflows retain their original license.
 | Video Conferences | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Video%20Conferences.alfredworkflow) | [View](https://www.deanishe.net/post/2020/05/workflow-video-conferences/) | |
 | Word Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Word%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/11074-word-search-a-workflow-to-make-you-a-better-writer/) | [Power Thesaurus](https://github.com/giovannicoppola/alfred-powerthesaurus) 𐄁 [SynAnt](https://www.alfredforum.com/topic/3954-synant) |
 | ZotHero[^2] | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/ZotHero.alfredworkflow) | [View](https://www.alfredforum.com/topic/11658-zothero-—-generate-zotero-citations-in-alfred/) | |
-  <!-- END WORKFLOWS TABLE -->
+<!-- END WORKFLOWS TABLE -->
 
 ### Officially updated
 
