@@ -21,6 +21,7 @@ All Workflows retain their original license.
 | Books | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Books.alfredworkflow) | [View](https://www.alfredforum.com/topic/13147-alfred-books-use-alfred-as-an-interface-to-access-apples-books-application/) | |
 | Browser Choice | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Browser%20Choice.alfredworkflow) | [View](https://www.alfredforum.com/topic/11787-any-way-to-open-a-url-with-a-particular-browser/) | |
 | Calibre Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Calibre%20Search.alfredworkflow) | [View](https://github.com/mpco/AlfredWorkflow-Calibre-Search) | |
+| Cardhop | Not needed[^3] | [View](https://www.alfredforum.com/topic/10917-cardhop-workflow/) | |
 | Cheat | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Cheat.alfredworkflow) | [View](https://www.alfredforum.com/topic/13206-alfred-cheat-manage-your-own-cheat-sheets) | |
 | CnyTransform | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/CnyTransform.alfredworkflow) | [View](https://github.com/TerryX-Lee/AlfredWorkflow_CnyTransform) | |
 | Confluence Quick Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Confluence%20Quick%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/10234-atlassian-confluence-quick-search/) | |
