@@ -77,7 +77,7 @@ All Workflows retain their original license.
 | Video Conferences | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Video%20Conferences.alfredworkflow) | [View](https://www.deanishe.net/post/2020/05/workflow-video-conferences/) | |
 | Wi-Fi Control | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Wi-Fi%20Control.alfredworkflow) | [View](https://github.com/miromannino/alfred-wifi-control) | |
 | Word Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Word%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/11074-word-search-a-workflow-to-make-you-a-better-writer/) | [Word Search](https://github.com/jun6lee/Alfred-WordSearch) 𐄁 [Power Thesaurus](https://github.com/giovannicoppola/alfred-powerthesaurus) 𐄁 [SynAnt](https://www.alfredforum.com/topic/3954-synant) |
-| ZotHero[^2] | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/ZotHero.alfredworkflow) | [View](https://www.alfredforum.com/topic/11658-zothero-—-generate-zotero-citations-in-alfred/) | |
+| ZotHero[^2] | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/ZotHero.alfredworkflow) | [View](https://www.alfredforum.com/topic/11658-zothero-—-generate-zotero-citations-in-alfred/) | [ZotHero](https://github.com/giovannicoppola/zothero) |
 <!-- END WORKFLOWS TABLE -->
 
 ### Officially updated
