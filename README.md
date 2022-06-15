@@ -15,6 +15,7 @@ All Workflows retain their original license.
 <!-- BEGIN WORKFLOWS TABLE -->
 | Name | Updated Version | Original | Alternatives[^1] |
 | --- | :---: | :---: | --- |
+| Airport Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Airport%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/9843-icao-iata-airport-searching/) | |
 | AppScripts | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/AppScripts.alfredworkflow) | [View](https://www.alfredforum.com/topic/4218-appscripts-—-list-search-and-run-applescripts-for-the-active-application/) | |
 | Ariafred | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Ariafred.alfredworkflow) | [View](https://github.com/Wildog/Ariafred) | |
 | Bear | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Bear.alfredworkflow) | [View](https://www.alfredforum.com/topic/10403-bear-workflow-search-and-create-notes/) | |
