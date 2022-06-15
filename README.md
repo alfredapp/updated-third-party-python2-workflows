@@ -73,6 +73,7 @@ All Workflows retain their original license.
 | Star Ratings | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Star%20Ratings.alfredworkflow) | [View](https://www.alfredforum.com/topic/8132-star-ratings-rate-your-files-like-in-itunes/) | |
 | TeXdoc | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/TeXdoc.alfredworkflow) | [View](https://www.alfredforum.com/topic/8705-texdoc-workflow/) | |
 | Timing | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Timing.alfredworkflow) | [View](https://github.com/zhengyu-yang/alfred-timing) | |
+| Turkish Dictionary | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Turkish%20Dictionary.alfredworkflow) | [View](https://github.com/jmcannon/alfred-tureng) | |
 | Unicode Symbols Search | Not needed[^3] | [View](https://www.alfredforum.com/topic/1404-find-and-paste-unicode-symbols-arrow-triangles-greek-and-more/) | [Unicode](https://github.com/deanishe/alfred-unicode) |
 | VPN Manager | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/VPN%20Manager.alfredworkflow) | [View](https://www.alfredforum.com/topic/7333-vpn-connection-manager/) | |
 | Video Conferences | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Video%20Conferences.alfredworkflow) | [View](https://www.deanishe.net/post/2020/05/workflow-video-conferences/) | |
