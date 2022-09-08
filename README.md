@@ -26,7 +26,6 @@ All Workflows retain their original license.
 | Cardhop | Not needed[^3] | [View](https://www.alfredforum.com/topic/10917-cardhop-workflow/) | |
 | Cheat | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Cheat.alfredworkflow) | [View](https://www.alfredforum.com/topic/13206-alfred-cheat-manage-your-own-cheat-sheets) | |
 | CnyTransform | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/CnyTransform.alfredworkflow) | [View](https://github.com/TerryX-Lee/AlfredWorkflow_CnyTransform) | |
-| Confluence Quick Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Confluence%20Quick%20Search.alfredworkflow) | [View](https://www.alfredforum.com/topic/10234-atlassian-confluence-quick-search/) | |
 | Convert | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Convert.alfredworkflow) | [View](https://www.alfredforum.com/topic/3980-offline-unit-conversion-workflow/) | [Convert](https://github.com/giovannicoppola/alfred-convert) 𐄁 [Calculate Anything](https://github.com/biati-digital/alfred-calculate-anything) |
 | Date Calculator | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Date%20Calculator.alfredworkflow) | [View](https://github.com/MuppetGate/Alfred-Workflows-DateCalculator) | [Date Calculator](https://github.com/giovannicoppola/alfred-DateCalculator) |
 | Default Folder X | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Default%20Folder%20X.alfredworkflow) | [View](https://www.alfredforum.com/topic/8695-default-folder-x/) | |
@@ -93,6 +92,7 @@ Workflows which used to be on the table above but have since been updated by the
 | Calendar | [View](https://github.com/cleobis/alfred-cal) |
 | Case Converter| [View](https://www.alfredforum.com/topic/2180-case-converter-including-title-case/) |
 | Change Case | [View](https://github.com/gillibrand/alfred-change-case) |
+| Confluence Quick Search | [View](https://www.alfredforum.com/topic/10234-atlassian-confluence-quick-search/) | |
 | Emoji Taco | [View](http://github.com/jeeftor/EmojiTaco) |
 | Movie and TV Show Search | [View](https://www.alfredforum.com/topic/5355-movie-and-tv-show-search/) |
 | PDF Tools | [View](https://www.alfredforum.com/topic/9276-alfred-pdf-tools-–-optimize-encrypt-and-manipulate-pdf-files/) |
