@@ -48,7 +48,6 @@ All Workflows retain their original license.
 | Jira Search | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Jira%20Search.alfredworkflow) | [View](https://www.packal.org/workflow/jira-search) | [Jira](https://github.com/mjhuber/alfred-jira) 𐄁 [Jira Server Utilities](https://github.com/scarstens/alfred-workflow-jira-search-utilities) 𐄁 [Jira Search](https://github.com/titouanmathis/alfred-jira-search) |
 | JustWatch | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/JustWatch.alfredworkflow) | [View](https://www.alfredforum.com/topic/14853-justwatch-alfred-workflow/) | [JustWatch](https://github.com/vinaywadhwa/justwatch-alfred) |
 | MPD | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/MPD.alfredworkflow) | [View](https://www.alfredforum.com/topic/10370-mpd-music-player-daemon-client/) | |
-| Microsoft ToDo | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Microsoft%20ToDo.alfredworkflow) | [View](https://www.alfredforum.com/topic/14864-microsoft-todo-wunderlist-replacement-workflow/) | |
 | NSC | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/NSC.alfredworkflow) | [View](https://www.alfredforum.com/topic/1975-nsc-number-system-converter/) | |
 | Network Location | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/Network%20Location.alfredworkflow) | [View](https://www.alfredforum.com/topic/4533-list-filter-and-activate-network-locations-from-within-alfred/) | |
 | OneNote Navigator | [Download](https://github.com/alfredapp/updated-third-party-python2-workflows/raw/main/Workflows/OneNote%20Navigator.alfredworkflow) | [View](https://github.com/kevin-funderburg/alfred-microsoft-onenote-navigator) | |
@@ -94,8 +93,9 @@ Workflows which used to be on the table above but have since been updated by the
 | Calendar | [View](https://github.com/cleobis/alfred-cal) |
 | Case Converter| [View](https://www.alfredforum.com/topic/2180-case-converter-including-title-case/) |
 | Change Case | [View](https://github.com/gillibrand/alfred-change-case) |
-| Confluence Quick Search | [View](https://www.alfredforum.com/topic/10234-atlassian-confluence-quick-search/) | |
+| Confluence Quick Search | [View](https://www.alfredforum.com/topic/10234-atlassian-confluence-quick-search/) |
 | Emoji Taco | [View](http://github.com/jeeftor/EmojiTaco) |
+| Microsoft ToDo | [View](https://www.alfredforum.com/topic/14864-microsoft-todo-wunderlist-replacement-workflow/) |
 | Movie and TV Show Search | [View](https://www.alfredforum.com/topic/5355-movie-and-tv-show-search/) |
 | PDF Tools | [View](https://www.alfredforum.com/topic/9276-alfred-pdf-tools-–-optimize-encrypt-and-manipulate-pdf-files/) |
 | Search OmniFocus | [View](https://github.com/rhydlewis/alfred-search-omnifocus) |
